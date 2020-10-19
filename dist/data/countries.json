@@ -1,0 +1,1730 @@
+[
+    {
+        "name": "Afghanistan",
+        "abbr": "AF",
+        "official-name": "Islamic Republic of Afghanistan",
+        "capital": "Kabul",
+        "currency": "Afghan Afghani (AFN)",
+        "languages": "Pashto, Dari",
+        "religion": "Sunni Islam"
+    },
+    {
+        "name": "Albania",
+        "abbr": "AL",
+        "official-name": "Republic of Albania",
+        "capital": "Tirana",
+        "currency": "Albanian Lek (ALL)",
+        "languages": "Albanian",
+        "religion": "Sunni Islam"
+    },
+    {
+        "name": "Algeria",
+        "abbr": "DZ",
+        "official-name": "People's Democratic Republic of Algeria",
+        "capital": "Algiers",
+        "currency": "Algerian Dinar (DZD)",
+        "languages": "Arabic, Berber",
+        "religion": "Sunni Islam"
+    },
+    {
+        "name": "Andorra",
+        "abbr": "AD",
+        "official-name": "Principality of Andorra",
+        "capital": "Andorra la Vella",
+        "currency": "Euro (EUR)",
+        "languages": "Catalan",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "Angola",
+        "abbr": "AO",
+        "official-name": "Republic of Angola",
+        "capital": "Luanda",
+        "currency": "Angolan Kwanza (AOA)",
+        "languages": "Portuguese",
+        "religion": "Catholicism"
+    },
+    {
+        "abbr": "AG",
+        "name": "Antigua and Barbuda",
+        "capital": "St. John's",
+        "currency": "East Caribbean Dollar (XCD)",
+        "languages": "English",
+        "religion": "Christianity (various sects)"
+    },
+    {
+        "name": "Argentina",
+        "abbr": "AR",
+        "official-name": "Argentine Republic",
+        "capital": "Buenos Aires",
+        "currency": "Argentinian Peso (ARS)",
+        "languages": "None",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "Armenia",
+        "abbr": "AM",
+        "official-name": "Republic of Armenia",
+        "capital": "Yerevan",
+        "currency": "Armenian Dram (AMD)",
+        "languages": "Armenian",
+        "religion": "Armenian Apostolic Church"
+    },
+    {
+        "name": "Australia",
+        "abbr": "AU",
+        "official-name": "Commonwealth of Australia",
+        "capital": "Canberra",
+        "currency": "Australian Dollar (AUD)",
+        "languages": "English",
+        "religion": "Christianity (various sects)"
+    },
+    {
+        "name": "Austria",
+        "abbr": "AT",
+        "official-name": "Republic of Austria",
+        "capital": "Vienna",
+        "currency": "Euro (EUR)",
+        "languages": "German",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "Azerbaijan",
+        "abbr": "AZ",
+        "official-name": "Republic of Azerbaijan",
+        "capital": "Baku",
+        "currency": "Azerbaijani Manat (AZN)",
+        "languages": "Azerbaijani",
+        "religion": "Shia Islam"
+    },
+    {
+        "name": "Bahamas, The",
+        "abbr": "BS",
+        "official-name": "Commonwealth of The Bahamas",
+        "capital": "Nassau",
+        "currency": "Bahamian Dollar (BSD)",
+        "languages": "English",
+        "religion": "Protestantism"
+    },
+    {
+        "name": "Bahrain",
+        "abbr": "BH",
+        "official-name": "Kingdom of Bahrain",
+        "capital": "Manama",
+        "currency": "Bahraini Dinar (BHD)",
+        "languages": "Arabic",
+        "religion": "Sunni Islam"
+    },
+    {
+        "name": "Bangladesh",
+        "abbr": "BD",
+        "official-name": "People's Republic of Bangladesh",
+        "capital": "Dhaka",
+        "currency": "Bangladeshi Taka (BDT)",
+        "languages": "Bengali",
+        "religion": "Sunni Islam"
+    },
+    {
+        "abbr": "BB",
+        "name": "Barbados",
+        "capital": "Bridgetown",
+        "currency": "Barbadian Dollar (BBD)",
+        "languages": "English",
+        "religion": "Christianity (Anglicanism, Pentacostalism)"
+    },
+    {
+        "name": "Belarus",
+        "abbr": "BY",
+        "official-name": "Republic of Belarus",
+        "capital": "Minsk",
+        "currency": "Belarusian Ruble (BYN)",
+        "languages": "Belarusian, Russian",
+        "religion": "Eastern Orthodoxy, Irreligion"
+    },
+    {
+        "name": "Belgium",
+        "abbr": "BE",
+        "official-name": "Kingdom of Belgium",
+        "capital": "Brussels",
+        "currency": "Euro (EUR)",
+        "languages": "Dutch, French, German",
+        "religion": "Catholicism"
+    },
+    {
+        "abbr": "BZ",
+        "name": "Belize",
+        "capital": "Belmopan",
+        "currency": "Belize Dollar (BZD)",
+        "languages": "English",
+        "religion": "Christianity (Catholicism, Protestantism)"
+    },
+    {
+        "name": "Benin",
+        "abbr": "BJ",
+        "official-name": "Republic of Benin",
+        "capital": "Porto-Novo",
+        "currency": "West African CFA Franc (XOF)",
+        "languages": "French",
+        "religion": "Christianity (Catholicism, various sects)"
+    },
+    {
+        "name": "Bhutan",
+        "abbr": "BT",
+        "official-name": "Kingdom of Bhutan",
+        "capital": "Thimphu",
+        "currency": "Bhutanese Ngultrum (BTN)",
+        "languages": "Dzongkha",
+        "religion": "Vajrayana Buddhism"
+    },
+    {
+        "name": "Bolivia",
+        "abbr": "BO",
+        "official-name": "Plurinational State of Bolivia",
+        "capital": "Sucre, La Paz",
+        "currency": "Bolivian Boliviano (BOB)",
+        "languages": "Spanish, Aymara, Quechua, Guarani, 33 others",
+        "religion": "Catholicism"
+    },
+    {
+        "abbr": "BO",
+        "name": "Bosnia and Herzegovina",
+        "capital": "Sarajevo",
+        "currency": "Convertible Mark (BAM)",
+        "languages": "Bosnian, Serbian, Croatian",
+        "religion": "Islam (non-denominational, Sunni), Christianity (Serbian Orthodox Church)"
+    },
+    {
+        "name": "Botswana",
+        "abbr": "BW",
+        "official-name": "Republic of Botswana",
+        "capital": "Gaborone",
+        "currency": "Botswana Pula (BWP)",
+        "languages": "English, Setswana",
+        "religion": "Protestantism"
+    },
+    {
+        "name": "Brazil",
+        "abbr": "BR",
+        "official-name": "Federative Republic of Brazil",
+        "capital": "Brasilia",
+        "currency": "Brazilian Real (BRL)",
+        "languages": "Portuguese",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "Brunei",
+        "abbr": "BN",
+        "official-name": "Nation of Brunei, the Abode of Peace",
+        "capital": "Bandar Seri Begawan",
+        "currency": "Brunei Dollar (BND)",
+        "languages": "Malay",
+        "religion": "Sunni Islam"
+    },
+    {
+        "name": "Bulgaria",
+        "abbr": "BG",
+        "official-name": "Republic of Bulgaria",
+        "capital": "Sofia",
+        "currency": "Bulgarian Lev (BGN)",
+        "languages": "Bulgarian",
+        "religion": "Eastern Orthodoxy"
+    },
+    {
+        "abbr": "BF",
+        "name": "Burkina Faso",
+        "capital": "Ouagadougou",
+        "currency": "West African CFA Franc (XOF)",
+        "languages": "French",
+        "religion": "Sunni Islam"
+    },
+    {
+        "name": "Burundi",
+        "abbr": "BI",
+        "official-name": "Republic of Burundi",
+        "capital": "Gitega, Bujumbura",
+        "currency": "Burundian Franc (BIF)",
+        "languages": "Kirundi, French",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "Cambodia",
+        "abbr": "KH",
+        "official-name": "Kingdom of Cambodia",
+        "capital": "Phnom Penh",
+        "currency": "Cambodian Riel (KHR)",
+        "languages": "Khmer",
+        "religion": "Theravada Buddhism"
+    },
+    {
+        "name": "Cameroon",
+        "abbr": "CM",
+        "official-name": "Republic of Cameroon",
+        "capital": "Yaounde",
+        "currency": "Central African CFA Franc (XAF)",
+        "languages": "English, French",
+        "religion": "Catholicism, Protestantism, Islam (various sects)"
+    },
+    {
+        "abbr": "CA",
+        "name": "Canada",
+        "capital": "Ottawa",
+        "currency": "Canadian Dollar (CAD)",
+        "languages": "English, French",
+        "religion": "Catholicism, Protestantism"
+    },
+    {
+        "name": "Cape Verde",
+        "abbr": "CV",
+        "official-name": "Republic of Cabo Verde",
+        "capital": "Praia",
+        "currency": "Cape Verdean Escudo (CVE)",
+        "languages": "Portuguese",
+        "religion": "Catholicism"
+    },
+    {
+        "abbr": "CF",
+        "name": "Central African Republic",
+        "capital": "Bangui",
+        "currency": "Central African CFA Franc (XAF)",
+        "languages": "French, Sango",
+        "religion": "Protestantism"
+    },
+    {
+        "name": "Chad",
+        "abbr": "TD",
+        "official-name": "Republic of Chad",
+        "capital": "N'Djamena",
+        "currency": "Central African CFA Franc (XAF)",
+        "languages": "Arabic, French",
+        "religion": "Islam (various sects), Christianity (various sects)"
+    },
+    {
+        "name": "Chile",
+        "abbr": "CL",
+        "official-name": "Republic of Chile",
+        "capital": "Santiago",
+        "currency": "Chielan Peso (CLP)",
+        "languages": "Spanish",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "China",
+        "abbr": "CN",
+        "official-name": "People's Republic of China",
+        "capital": "Beijing",
+        "currency": "Chinese Renminbi (yuan) (CNY)",
+        "languages": "Standard Chinese",
+        "religion": "Irreligion"
+    },
+    {
+        "name": "Colombia",
+        "abbr": "CO",
+        "official-name": "Republic of Colombia",
+        "capital": "Bogota",
+        "currency": "Colombian Peso (COP)",
+        "languages": "Spanish, English (in some regions)",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "Comoros",
+        "abbr": "KM",
+        "official-name": "Union of the Comoros",
+        "capital": "Moroni",
+        "currency": "Comorian Franc (KMF)",
+        "languages": "Comorian, French, Arabic",
+        "religion": "Sunni Islam"
+    },
+    {
+        "name": "Congo, Democratic Republic of the",
+        "abbr": "CD",
+        "official-name": "Democratic Republic of the Congo",
+        "capital": "Kinshasa",
+        "currency": "Congolese Franc (CDF)",
+        "languages": "French",
+        "religion": "Catholicism, other Christian sects"
+    },
+    {
+        "name": "Congo, Republic of the",
+        "abbr": "CG",
+        "official-name": "Republic of the Congo",
+        "capital": "Brazzaville",
+        "currency": "Central African CFA Franc (XAF)",
+        "languages": "French",
+        "religion": "Catholicism, Protestantism"
+    },
+    {
+        "name": "Costa Rica",
+        "abbr": "CR",
+        "official-name": "Republic of Costa Rica",
+        "capital": "San Jose",
+        "currency": "Costa Rican Colon (CRC)",
+        "languages": "Spanish",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "Croatia",
+        "abbr": "HR",
+        "official-name": "Republic of Croatia",
+        "capital": "Zagreb",
+        "currency": "Croatian Kuna (HRK)",
+        "languages": "Croatian",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "Cuba",
+        "abbr": "CU",
+        "official-name": "Republic of Cuba",
+        "capital": "Havana",
+        "currency": "Cuban Peso (CUP), Convertible Peso (CUC)",
+        "languages": "Spanish",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "Cyprus",
+        "abbr": "CY",
+        "official-name": "Republic of Cyprus",
+        "capital": "Nicosia",
+        "currency": "Euro (EUR)",
+        "languages": "Greek, Turkish",
+        "religion": "Eastern Orthodoxy"
+    },
+    {
+        "abbr": "CZ",
+        "name": "Czech Republic",
+        "capital": "Prague",
+        "currency": "Czech Koruna (CZK)",
+        "languages": "Czech",
+        "religion": "Irreligion"
+    },
+    {
+        "name": "Denmark",
+        "abbr": "DK",
+        "official-name": "Kingdom of Denmark",
+        "capital": "Copenhagen",
+        "currency": "Danish Krone (DKK)",
+        "languages": "Danish",
+        "religion": "Church of Denmark"
+    },
+    {
+        "name": "Djibouti",
+        "abbr": "DJ",
+        "official-name": "Republic of Djibouti",
+        "capital": "Djibouti",
+        "currency": "Djiboutian Franc (DJF)",
+        "languages": "French, Arabic",
+        "religion": "Sunni Islam"
+    },
+    {
+        "name": "Dominica",
+        "abbr": "DM",
+        "official-name": "Commonwealth of Dominica",
+        "capital": "Roseau",
+        "currency": "East Caribbean Dollar (XCD)",
+        "languages": "English",
+        "religion": "Catholicism"
+    },
+    {
+        "abbr": "DO",
+        "name": "Dominican Republic",
+        "capital": "Santo Domingo",
+        "currency": "Dominican Peso (DOP)",
+        "languages": "Spanish",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "East Timor",
+        "abbr": "TL",
+        "official-name": "Democratic Republic of Timor-Leste",
+        "capital": "Dili",
+        "currency": "United States Dollar (USD)",
+        "languages": "Tetum, Portuguese",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "Ecuador",
+        "abbr": "EC",
+        "official-name": "Republic of Ecuador",
+        "capital": "Quito",
+        "currency": "United States Dollar (USD)",
+        "languages": "Spanish",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "Egypt",
+        "abbr": "EG",
+        "official-name": "Arab Republic of Egypt",
+        "capital": "Cairo",
+        "currency": "Egyptian Pound (EGP)",
+        "languages": "Arabic",
+        "religion": "Sunni Islam"
+    },
+    {
+        "name": "El Salvador",
+        "abbr": "SV",
+        "official-name": "Republic of El Salvador",
+        "capital": "San Salvador",
+        "currency": "United States Dollar (USD)",
+        "languages": "Spanish",
+        "religion": "Catholicism, Protestantism"
+    },
+    {
+        "name": "Equatorial Guinea",
+        "abbr": "GQ",
+        "official-name": "Republic of Equatorial Guinea",
+        "capital": "Malabo",
+        "currency": "Central African CFA Franc (XAF)",
+        "languages": "Spanish, Portuguese, French, English",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "Eritrea",
+        "abbr": "ER",
+        "official-name": "State of Eritrea",
+        "capital": "Asmara",
+        "currency": "Eritrean Nakfa (ERN)",
+        "languages": "None",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Estonia",
+        "abbr": "EE",
+        "official-name": "Republic of Estonia",
+        "capital": "Tallinn",
+        "currency": "Euro (EUR)",
+        "languages": "Estonian",
+        "religion": "Irreligion"
+    },
+    {
+        "name": "Eswatini",
+        "abbr": "SZ",
+        "official-name": "Kingdom of Eswatini",
+        "capital": "Mbabne, Lobamba",
+        "currency": "Swazi Lilangeni (SZL), South African Rand (ZAR)",
+        "languages": "Siswati, English",
+        "religion": "Protestantism"
+    },
+    {
+        "name": "Ethiopia",
+        "abbr": "ET",
+        "official-name": "Federal Democratic Republic of Ethiopia",
+        "capital": "Addis Ababa",
+        "currency": "Ethiopian Birr (ETB)",
+        "languages": "Amharic",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Fiji",
+        "abbr": "FJ",
+        "official-name": "Republic of Fiji",
+        "capital": "Suva",
+        "currency": "Fijian Dollar (FJD)",
+        "languages": "Fijian, English",
+        "religion": "Christianity, Hinduism"
+    },
+    {
+        "name": "Finland",
+        "abbr": "FI",
+        "official-name": "Republic of Finland",
+        "capital": "Helsinki",
+        "currency": "Euro (EUR)",
+        "languages": "Finnish, Swedish",
+        "religion": "Evangelical Lutheran Church"
+    },
+    {
+        "name": "France",
+        "abbr": "FR",
+        "official-name": "French Republic",
+        "capital": "Paris",
+        "currency": "Euro (EUR), CFP Franc (XPF) (overseas territories)",
+        "languages": "French",
+        "religion": "Catholicism, Irreligion"
+    },
+    {
+        "name": "Gabon",
+        "abbr": "GA",
+        "official-name": "Gabonese Republic",
+        "capital": "Libreville",
+        "currency": "Central African CFA Franc (XAF)",
+        "languages": "French",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Gambia, The",
+        "abbr": "GM",
+        "official-name": "Republic of The Gambia",
+        "capital": "Banjul",
+        "currency": "Gambian Dalasi (GMD)",
+        "languages": "English",
+        "religion": "Sunni Islam"
+    },
+    {
+        "abbr": "GE",
+        "name": "Georgia",
+        "capital": "Tbilisi",
+        "currency": "Georgian Lari (GEL)",
+        "languages": "Georgian, Abkhazian (in Abkhazia)",
+        "religion": "Georgian Orthodoxy"
+    },
+    {
+        "name": "Germany",
+        "abbr": "DE",
+        "official-name": "Federal Republic of Germany",
+        "capital": "Berlin",
+        "currency": "Euro (EUR)",
+        "languages": "German",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Ghana",
+        "abbr": "GH",
+        "official-name": "Republic of Ghana",
+        "capital": "Accra",
+        "currency": "Ghanaian Cedi (GHS)",
+        "languages": "English",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Greece",
+        "abbr": "GR",
+        "official-name": "Hellenic Republic",
+        "capital": "Athens",
+        "currency": "Euro (EUR)",
+        "languages": "Greek",
+        "religion": "Eastern Orthodoxy"
+    },
+    {
+        "abbr": "GD",
+        "name": "Grenada",
+        "capital": "St. George's",
+        "currency": "East Caribbean Dollar (XCD)",
+        "languages": "English",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Guatemala",
+        "abbr": "GT",
+        "official-name": "Republic of Guatemala",
+        "capital": "Guatemala City",
+        "currency": "Guatemalan Quetzal (GTQ)",
+        "languages": "Spanish",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Guinea",
+        "abbr": "GN",
+        "official-name": "Republic of Guinea",
+        "capital": "Conakry",
+        "currency": "Guinean Franc (GNF)",
+        "languages": "French",
+        "religion": "Sunni Islam"
+    },
+    {
+        "name": "Guinea-Bissau",
+        "abbr": "GW",
+        "official-name": "Republic of Guinea-Bissau",
+        "capital": "Bissau",
+        "currency": "West African CFA Franc (XOF)",
+        "languages": "Portuguese",
+        "religion": "Islam, Christianity"
+    },
+    {
+        "name": "Guyana",
+        "abbr": "GY",
+        "official-name": "Co-operative Republic of Guyana",
+        "capital": "Georgetown",
+        "currency": "Guyanese Dollar (GYD)",
+        "languages": "English",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Haiti",
+        "abbr": "HT",
+        "official-name": "Republic of Haiti",
+        "capital": "Port-au-Prince",
+        "currency": "Haitian Gourde (HTG)",
+        "languages": "French, Haitian Creole",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "Honduras",
+        "abbr": "HN",
+        "official-name": "Republic of Honduras",
+        "capital": "Tegucigalpa",
+        "currency": "Honduran Lempira (HNL)",
+        "languages": "Spanish",
+        "religion": "Catholicism, Protestantism"
+    },
+    {
+        "abbr": "HU",
+        "name": "Hungary",
+        "capital": "Budapest",
+        "currency": "Hungarian Forint (HUF)",
+        "languages": "Hungarian",
+        "religion": "Christianity"
+    },
+    {
+        "abbr": "IS",
+        "name": "Iceland",
+        "capital": "Reykjavik",
+        "currency": "Icelandic Krona (ISK)",
+        "languages": "Icelandic",
+        "religion": "Church of Iceland"
+    },
+    {
+        "name": "India",
+        "abbr": "IN",
+        "official-name": "Republic of India",
+        "capital": "New Delhi",
+        "currency": "Indian Rupee (INR)",
+        "languages": "Hindi, English",
+        "religion": "Hinduism"
+    },
+    {
+        "name": "Indonesia",
+        "abbr": "ID",
+        "official-name": "Republic of Indonesia",
+        "capital": "Jakarta",
+        "currency": "Indonesian Rupiah (IDR)",
+        "languages": "Indonesian",
+        "religion": "Sunni Islam"
+    },
+    {
+        "name": "Iran",
+        "abbr": "IR",
+        "official-name": "Islamic Republic of Iran",
+        "capital": "Tehran",
+        "currency": "Iranian Rial (IRR)",
+        "languages": "Persian",
+        "religion": "Shia Islam"
+    },
+    {
+        "name": "Iraq",
+        "abbr": "IQ",
+        "official-name": "Republic of Iraq",
+        "capital": "Baghdad",
+        "currency": "Iraqi Dinar (IQD)",
+        "languages": "Arabic, Kurdish",
+        "religion": "Islam"
+    },
+    {
+        "name": "Ireland",
+        "abbr": "IE",
+        "official-name": "Republic of Ireland",
+        "capital": "Dublin",
+        "currency": "Euro (EUR)",
+        "languages": "Irish, English",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "Israel",
+        "abbr": "IL",
+        "official-name": "State of Israel",
+        "capital": "Jerusalem",
+        "currency": "Israeli New Shekel (ILS)",
+        "languages": "Hebrew",
+        "religion": "Judaism"
+    },
+    {
+        "name": "Italy",
+        "abbr": "IT",
+        "official-name": "Italian Republic",
+        "capital": "Rome",
+        "currency": "Euro (EUR)",
+        "languages": "Italian",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "Ivory Coast",
+        "abbr": "CI",
+        "official-name": "Republic of Côte d'Ivoire",
+        "capital": "Yamoussoukro (de jure), Abidjan (de facto)",
+        "currency": "West African CFA Franc (XOF)",
+        "languages": "French",
+        "religion": "Islam, Christianity, Irreligion"
+    },
+    {
+        "abbr": "JM",
+        "name": "Jamaica",
+        "capital": "Kingston",
+        "currency": "Jamaican Dollar (JMD)",
+        "languages": "English",
+        "religion": "Protestantism"
+    },
+    {
+        "abbr": "JP",
+        "name": "Japan",
+        "capital": "Tokyo",
+        "currency": "Japanese Yen (JPY)",
+        "languages": "Japanese",
+        "religion": "Shinto, Buddhism, Irreligion"
+    },
+    {
+        "name": "Jordan",
+        "abbr": "JO",
+        "official-name": "Hashemite Kingdom of Jordan",
+        "capital": "Amman",
+        "currency": "Jordanian Dinar (JOD)",
+        "languages": "Arabic",
+        "religion": "Sunni Islam"
+    },
+    {
+        "name": "Kazakhstan",
+        "abbr": "KZ",
+        "official-name": "Republic of Kazakhstan",
+        "capital": "Nur-Sultan (Astana)",
+        "currency": "Kazakhstani Tenge (KZT)",
+        "languages": "Kazakh, Russian",
+        "religion": "Islam"
+    },
+    {
+        "name": "Kenya",
+        "abbr": "KE",
+        "official-name": "Republic of Kenya",
+        "capital": "Nairobi",
+        "currency": "Kenyan Shilling (KES)",
+        "languages": "English, Swahili",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Kiribati",
+        "abbr": "KI",
+        "official-name": "Republic of Kiribati",
+        "capital": "South Tarawa",
+        "currency": "Australian Dollar (AUD)",
+        "languages": "English, Gilbertese",
+        "religion": "Catholicism, Protestantism"
+    },
+    {
+        "name": "Korea, North",
+        "abbr": "KP",
+        "official-name": "Democratic People's Republic of Korea",
+        "capital": "Pyongyang",
+        "currency": "Korean People's Won (KPW)",
+        "languages": "Korean",
+        "religion": "Uncertain, state atheism"
+    },
+    {
+        "name": "Korea, South",
+        "abbr": "KR",
+        "official-name": "Republic of Korea",
+        "capital": "Seoul",
+        "currency": "Korean Republic Won (KRW)",
+        "languages": "Korean",
+        "religion": "Irreligion"
+    },
+    {
+        "name": "Kuwait",
+        "abbr": "KW",
+        "official-name": "State of Kuwait",
+        "capital": "Kuwait City",
+        "currency": "Kuwaiti Dinar (KWD)",
+        "languages": "Arabic",
+        "religion": "Sunni Islam"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "abbr": "KG",
+        "official-name": "Kyrgyz Republic",
+        "capital": "Bishkek",
+        "currency": "Kyrgyzstani Som (KGS)",
+        "languages": "Kyrgyz, Russian",
+        "religion": "Islam"
+    },
+    {
+        "name": "Laos",
+        "abbr": "LA",
+        "official-name": "Lao People's Democratic Republic",
+        "capital": "Vientiane",
+        "currency": "Lao Kip (LAK)",
+        "languages": "Lao",
+        "religion": "Theravada Buddhism"
+    },
+    {
+        "name": "Latvia",
+        "abbr": "LV",
+        "official-name": "Republic of Latvia",
+        "capital": "Riga",
+        "currency": "Euro (EUR)",
+        "languages": "Latvian",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Lebanon",
+        "abbr": "LB",
+        "official-name": "Lebanese Republic",
+        "capital": "Beirut",
+        "currency": "Lebanese Pound (LBP)",
+        "languages": "Arabic",
+        "religion": "Islam, Christianity"
+    },
+    {
+        "name": "Lesotho",
+        "abbr": "LS",
+        "official-name": "Kingdom of Lesotho",
+        "capital": "Maseru",
+        "currency": "Lesotho Loti (LSL), South African Rand (ZAR)",
+        "languages": "Sesotho, English",
+        "religion": "Catholicism, Protestantism"
+    },
+    {
+        "name": "Liberia",
+        "abbr": "LR",
+        "official-name": "Republic of Liberia",
+        "capital": "Monrovia",
+        "currency": "Liberian Dollar (LRD)",
+        "languages": "English",
+        "religion": "Protestantism"
+    },
+    {
+        "name": "Libya",
+        "abbr": "LY",
+        "official-name": "State of Libya",
+        "capital": "Tripoli",
+        "currency": "Libyan Dinar (LYD)",
+        "languages": "Arabic",
+        "religion": "Sunni Islam"
+    },
+    {
+        "name": "Liechtenstein",
+        "abbr": "LI",
+        "official-name": "Principality of Liechtenstein",
+        "capital": "Vaduz",
+        "currency": "Swiss Franc (CHF)",
+        "languages": "German",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "Lithuania",
+        "abbr": "LT",
+        "official-name": "Republic of Lithuania",
+        "capital": "Vilnius",
+        "currency": "Euro (EUR)",
+        "languages": "Lithuanian",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "Luxembourg",
+        "abbr": "LU",
+        "official-name": "Grand Duchy of Luxembourg",
+        "capital": "Luxembourg City",
+        "currency": "Euro (EUR)",
+        "languages": "Luxembourgish, French, German",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "Madagascar",
+        "abbr": "MG",
+        "official-name": "Republic of Madagascar",
+        "capital": "Antananarivo",
+        "currency": "Malagasy Ariary (MGA)",
+        "languages": "Malagasy, French",
+        "religion": "Protestantism, Catholicism"
+    },
+    {
+        "name": "Malawi",
+        "abbr": "MW",
+        "official-name": "Republic of Malawi",
+        "capital": "Lilongwe",
+        "currency": "Malawian Kwacha (MWK)",
+        "languages": "English, Chewa",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Malaysia",
+        "abbr": "MY",
+        "capital": "Kuala Lumpur",
+        "currency": "Malaysian Ringgit (MYR)",
+        "languages": "Malay",
+        "religion": "Sunni Islam"
+    },
+    {
+        "name": "Maldives",
+        "abbr": "MV",
+        "official-name": "Republic of Maldives",
+        "capital": "Malé",
+        "currency": "Maldivian Rufiyaa (MVR)",
+        "languages": "Dhivehi",
+        "religion": "Islam"
+    },
+    {
+        "name": "Mali",
+        "abbr": "ML",
+        "official-name": "Republic of Mali",
+        "capital": "Bamako",
+        "currency": "West African CFA Franc (XOF)",
+        "languages": "French",
+        "religion": "Islam"
+    },
+    {
+        "name": "Malta",
+        "abbr": "MT",
+        "official-name": "Republic of Malta",
+        "capital": "Valletta",
+        "currency": "Euro (EUR)",
+        "languages": "Maltese, English",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "Marshall Islands",
+        "abbr": "MH",
+        "official-name": "Republic of the Marshall Islands",
+        "capital": "Majuro",
+        "currency": "United States Dollar (USD)",
+        "languages": "Marshallese, English",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Mauritania",
+        "abbr": "MR",
+        "official-name": "Islamic Republic of Mauritania",
+        "capital": "Noaukchott",
+        "currency": "Mauritanian Ouguiya (MRU)",
+        "languages": "Arabic",
+        "religion": "Islam"
+    },
+    {
+        "name": "Mauritius",
+        "abbr": "MU",
+        "official-name": "Republic of Mauritius",
+        "capital": "Port Louis",
+        "currency": "Mauritian Rupee (MUR)",
+        "languages": "None",
+        "religion": "Hinduism, Christianity"
+    },
+    {
+        "name": "Mexico",
+        "abbr": "MX",
+        "official-name": "United Mexican States",
+        "capital": "Mexico City",
+        "currency": "Mexican Peso (MXN)",
+        "languages": "None",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "Micronesia",
+        "abbr": "FM",
+        "official-name": "Federated States of Micronesia",
+        "capital": "Palikir",
+        "currency": "United States Dollar (USD)",
+        "languages": "English",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Moldova",
+        "abbr": "MD",
+        "official-name": "Republic of Moldova",
+        "capital": "Chișinău",
+        "currency": "Moldovan Leu (MDL)",
+        "languages": "Romanian (Moldovan)",
+        "religion": "Eastern Orthodoxy"
+    },
+    {
+        "name": "Monaco",
+        "abbr": "MC",
+        "official-name": "Principality of Monaco",
+        "capital": "Monaco (city-state)",
+        "currency": "Euro (EUR)",
+        "languages": "French",
+        "religion": "Catholicism"
+    },
+    {
+        "abbr": "MN",
+        "name": "Mongolia",
+        "capital": "Ulaanbaatar",
+        "currency": "Mongolian Tögrög (MNT)",
+        "languages": "Mongolian",
+        "religion": "Buddhism, Irreligion"
+    },
+    {
+        "abbr": "ME",
+        "name": "Montenegro",
+        "capital": "Podgorica",
+        "currency": "Euro (EUR)",
+        "languages": "Montenegrin",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Morocco",
+        "abbr": "MA",
+        "official-name": "Kingdom of Morocco",
+        "capital": "Rabat",
+        "currency": "Moroccan Dirham (MAD)",
+        "languages": "Arabic, Berber",
+        "religion": "Sunni Islam"
+    },
+    {
+        "name": "Mozambique",
+        "abbr": "MZ",
+        "official-name": "Republic of Mozambique",
+        "capital": "Maputo",
+        "currency": "Mozambican Metical (MZN)",
+        "languages": "Portuguese",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Myanmar",
+        "abbr": "MM",
+        "official-name": "Republic of the Union of Myanmar",
+        "capital": "Naypyidaw",
+        "currency": "Burmese Kyat (MMK)",
+        "languages": "Burmese",
+        "religion": "Buddhism"
+    },
+    {
+        "name": "Namibia",
+        "abbr": "NA",
+        "official-name": "Republic of Namibia",
+        "capital": "Windhoek",
+        "currency": "Namibian Dollar (NAD), South African Rand (ZAR)",
+        "languages": "English",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Nauru",
+        "abbr": "NR",
+        "official-name": "Republic of Nauru",
+        "capital": "Yaren",
+        "currency": "Australian Dollar (AUD)",
+        "languages": "Nauruan, English",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Nepal",
+        "abbr": "NP",
+        "official-name": "Federal Democratic Republic of Nepal",
+        "capital": "Kathmandu",
+        "currency": "Nepalese Rupee (NPR)",
+        "languages": "Nepali",
+        "religion": "Hinduism"
+    },
+    {
+        "name": "Netherlands",
+        "abbr": "NL",
+        "official-name": "Kingdom of the Netherlands",
+        "capital": "Amsterdam",
+        "currency": "Euro (EUR)",
+        "languages": "Dutch",
+        "religion": "Irreligion"
+    },
+    {
+        "abbr": "NZ",
+        "name": "New Zealand",
+        "capital": "Wellington",
+        "currency": "New Zealand Dollar (NZD)",
+        "languages": "English",
+        "religion": "Irreligion"
+    },
+    {
+        "name": "Nicaragua",
+        "abbr": "NI",
+        "official-name": "Republic of Nicaragua",
+        "capital": "Managua",
+        "currency": "Nicaraguan Cordoba (NIO)",
+        "languages": "Spanish",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Niger",
+        "abbr": "NE",
+        "official-name": "Republic of Niger",
+        "capital": "Niamey",
+        "currency": "West African CFA Franc (XOF)",
+        "languages": "French",
+        "religion": "Islam"
+    },
+    {
+        "name": "Nigeria",
+        "abbr": "NG",
+        "official-name": "Federal Republic of Nigeria",
+        "capital": "Abuja",
+        "currency": "Nigerian Naira (NGN)",
+        "languages": "English",
+        "religion": "Islam, Christianity"
+    },
+    {
+        "name": "North Macedonia",
+        "abbr": "MK",
+        "official-name": "Republic of North Macedonia",
+        "capital": "Skopje",
+        "currency": "Macedonian Denar (MKD)",
+        "languages": "Macedonian, Albanian",
+        "religion": "Eastern Orthodoxy"
+    },
+    {
+        "name": "Norway",
+        "abbr": "NO",
+        "official-name": "Kingdom of Norway",
+        "capital": "Oslo",
+        "currency": "Norwegian Krone (NOK)",
+        "languages": "Norwegian, Sámi",
+        "religion": "Lutheranism"
+    },
+    {
+        "name": "Oman",
+        "abbr": "OM",
+        "official-name": "Sultanate of Oman",
+        "capital": "Muscat",
+        "currency": "Omani Rial (OMR)",
+        "languages": "Arabic",
+        "religion": "Islam"
+    },
+    {
+        "name": "Pakistan",
+        "abbr": "PK",
+        "official-name": "Islamic Republic of Pakistan",
+        "capital": "Islamabad",
+        "currency": "Pakistani Rupee (PKR)",
+        "languages": "English, Urdu",
+        "religion": "Islam"
+    },
+    {
+        "name": "Palau",
+        "abbr": "PW",
+        "official-name": "Republic of Palau",
+        "capital": "Nigerulmud",
+        "currency": "United States Dollar (USD)",
+        "languages": "English, Palauan, Japanese, Sonsorolese, Tobian",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Palestine",
+        "abbr": "PS",
+        "official-name": "State of Palestine",
+        "capital": "Jerusalem (proclaimed, Ramallah (administrative)",
+        "currency": "Several",
+        "languages": "Arabic",
+        "religion": "Sunni Islam"
+    },
+    {
+        "name": "Panama",
+        "abbr": "PA",
+        "official-name": "Republic of Panama",
+        "capital": "Panama City",
+        "currency": "Panamanian Balboa (PAB), United States Dollar (USD)",
+        "languages": "Spanish",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "Papua New Guinea",
+        "abbr": "PG",
+        "official-name": "Independent State of Papua New Guinea",
+        "capital": "Port Moresby",
+        "currency": "Papua New Guinean Kina (PGK)",
+        "languages": "English, Hiri Motu, PNG Sign Language, Tok Pisin",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Paraguay",
+        "abbr": "PY",
+        "official-name": "Republic of Paraguay",
+        "capital": "Asunciòn",
+        "currency": "Paraguayan Guarani (PYG)",
+        "languages": "Guarani, Spanish",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "Peru",
+        "abbr": "PE",
+        "official-name": "Republic of Peru",
+        "capital": "Lima",
+        "currency": "Peruvian Sol (PEN)",
+        "languages": "Spanish",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "Philippines",
+        "abbr": "PH",
+        "official-name": "Republic of the Philippines",
+        "capital": "Manila",
+        "currency": "Philippine Peso (PHP)",
+        "languages": "Filipino, English",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "Poland",
+        "abbr": "PL",
+        "official-name": "Republic of Poland",
+        "capital": "Warsaw",
+        "currency": "Polish Złoty (PLN)",
+        "languages": "Polish",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "Portugal",
+        "abbr": "PT",
+        "official-name": "Portuguese Republic",
+        "capital": "Lisbon",
+        "currency": "Euro (EUR)",
+        "languages": "Portuguese",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "Qatar",
+        "abbr": "QA",
+        "official-name": "State of Qatar",
+        "capital": "Doha",
+        "currency": "Qatari Riyal (QAR)",
+        "languages": "Arabic",
+        "religion": "Sunni Islam"
+    },
+    {
+        "abbr": "RO",
+        "name": "Romania",
+        "capital": "Bucharest",
+        "currency": "Romanian Leu (RON)",
+        "languages": "Romanian",
+        "religion": "Romanian Orthodoxy"
+    },
+    {
+        "name": "Russia",
+        "abbr": "RU",
+        "official-name": "Russian Federation",
+        "capital": "Moscow",
+        "currency": "Russian Ruble (RUB)",
+        "languages": "Russian",
+        "religion": "Russian Orthodoxy"
+    },
+    {
+        "name": "Rwanda",
+        "abbr": "RW",
+        "official-name": "Republic of Rwanda",
+        "capital": "Kigali",
+        "currency": "Rwandan Franc (RWF)",
+        "languages": "English, French, Kinyarwanda, Swahili",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "abbr": "KN",
+        "official-name": "Federation of Saint Christopher and Nevis",
+        "capital": "Basseterre",
+        "currency": "East Caribbean Dollar (XCD)",
+        "languages": "English",
+        "religion": "Christianity"
+    },
+    {
+        "abbr": "LC",
+        "name": "Saint Lucia",
+        "capital": "Castries",
+        "currency": "East Caribbean Dollar (XCD)",
+        "languages": "English",
+        "religion": "Christianity"
+    },
+    {
+        "abbr": "VC",
+        "name": "Saint Vincent and the Grenadines",
+        "capital": "Kingstown",
+        "currency": "East Caribbean Dollar (XCD)",
+        "languages": "English",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Samoa",
+        "abbr": "WS",
+        "official-name": "Independent State of Samoa",
+        "capital": "Apia",
+        "currency": "Samoan Tālā (WST)",
+        "languages": "Samoan, English",
+        "religion": "Christianity"
+    },
+    {
+        "name": "San Marino",
+        "abbr": "SM",
+        "official-name": "Republic of San Marino",
+        "capital": "San Marino (city-state)",
+        "currency": "Euro (EUR)",
+        "languages": "Italian",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "São Tomé and Príncipe",
+        "abbr": "ST",
+        "official-name": "Democratic Republic of São Tomé and Príncipe",
+        "capital": "São Tomé",
+        "currency": "São Tomé and Príncipe Dobra (STN)",
+        "languages": "Portuguese",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Saudi Arabia",
+        "abbr": "SA",
+        "official-name": "Kingdom of Saudi Arabia",
+        "capital": "Riyadh",
+        "currency": "Saudi Riyal (SAR)",
+        "languages": "Arabic",
+        "religion": "Sunni Islam (Wahhabism)"
+    },
+    {
+        "name": "Senegal",
+        "abbr": "SN",
+        "official-name": "Republic of Senegal",
+        "capital": "Dakar",
+        "currency": "West African CFA Franc (XOF)",
+        "languages": "French",
+        "religion": "Islam"
+    },
+    {
+        "name": "Serbia",
+        "abbr": "RS",
+        "official-name": "Republic of Serbia",
+        "capital": "Belgrade",
+        "currency": "Serbian Dinar (RSD)",
+        "languages": "Serbian",
+        "religion": "Eastern Orthodoxy"
+    },
+    {
+        "name": "Seychelles",
+        "abbr": "SC",
+        "official-name": "Republic of Seychelles",
+        "capital": "Victoria",
+        "currency": "Seychellois Rupee (SCR)",
+        "languages": "English, French, Seychellois Creole",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "Sierra Leone",
+        "abbr": "SL",
+        "official-name": "Republic of Sierra Leone",
+        "capital": "Freetown",
+        "currency": "Sierra Leonean Leone (SLL)",
+        "languages": "English",
+        "religion": "Islam"
+    },
+    {
+        "name": "Singapore",
+        "abbr": "SG",
+        "official-name": "Republic of Singapore",
+        "capital": "Singapore (city-state)",
+        "currency": "Singapore Dollar (SGD)",
+        "languages": "Malay",
+        "religion": "Various, Buddhism highest at 33%"
+    },
+    {
+        "name": "Slovakia",
+        "abbr": "SK",
+        "official-name": "Slovak Republic",
+        "capital": "Bratislava",
+        "currency": "Euro (EUR)",
+        "languages": "Slovak",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Slovenia",
+        "abbr": "SI",
+        "official-name": "Republic of Slovenia",
+        "capital": "Ljubljana",
+        "currency": "Euro (EUR)",
+        "languages": "Slovene",
+        "religion": "Catholicism"
+    },
+    {
+        "abbr": "SB",
+        "name": "Solomon Islands",
+        "capital": "Honiara",
+        "currency": "Solomon Islands Dollar (SBD)",
+        "languages": "English",
+        "religion": "Protestantism"
+    },
+    {
+        "name": "Somalia",
+        "abbr": "SO",
+        "official-name": "Federal Republic of Somalia",
+        "capital": "Mogadishu",
+        "currency": "Somali Shilling (SOS)",
+        "languages": "Somali, Arabic",
+        "religion": "Islam"
+    },
+    {
+        "name": "South Africa",
+        "abbr": "ZA",
+        "official-name": "Republic of South Africa",
+        "capital": "Pretoria (executive), Cape Town (legislative), Bloemfontein (judicial)",
+        "currency": "South African Rand (ZAR)",
+        "languages": "Zulu, Xhosa, English, Afrikaans, 7 more",
+        "religion": "Christianity"
+    },
+    {
+        "name": "South Sudan",
+        "abbr": "SS",
+        "official-name": "Republic of South Sudan",
+        "capital": "Juba",
+        "currency": "South Sudanese Pound (SSP)",
+        "languages": "English, Swahili",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Spain",
+        "abbr": "ES",
+        "official-name": "Kingdom of Spain",
+        "capital": "Madrid",
+        "currency": "Euro (EUR)",
+        "languages": "Spanish",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "Sri Lanka",
+        "abbr": "LK",
+        "official-name": "Democratic Socialist Republic of Sri Lanka",
+        "capital": "Sri Jayawardenepura Kotte (legislative), Colombo (executive & judicial)",
+        "currency": "Sri Lankan Rupee (LKR)",
+        "languages": "Sinhala, Tamil",
+        "religion": "Theravada Buddhism"
+    },
+    {
+        "name": "Sudan",
+        "abbr": "SD",
+        "official-name": "Republic of the Sudan",
+        "capital": "Khartoum",
+        "currency": "Sudanese Pound (SDP)",
+        "languages": "Arabic",
+        "religion": "Sunni Islam"
+    },
+    {
+        "name": "Suriname",
+        "abbr": "SR",
+        "official-name": "Republic of Suriname",
+        "capital": "Paramaribo",
+        "currency": "Surinamese Dollar (SRD)",
+        "languages": "Dutch",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Sweden",
+        "abbr": "SE",
+        "official-name": "Kingdom of Sweden",
+        "capital": "Stockholm",
+        "currency": "Swedish Krona (SEK)",
+        "languages": "Swedish",
+        "religion": "Church of Sweden"
+    },
+    {
+        "name": "Switzerland",
+        "abbr": "CH",
+        "official-name": "Confoederatio Helvetica (and 5 other)",
+        "capital": "Zürich",
+        "currency": "Swiss Franc (CHF)",
+        "languages": "German, French, Italian, Romansh",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Syria",
+        "abbr": "SY",
+        "official-name": "Syrian Arab Republic",
+        "capital": "Damascus",
+        "currency": "Syrian Pound (SYP)",
+        "languages": "Arabic",
+        "religion": "Islam"
+    },
+    {
+        "name": "Tajikistan",
+        "abbr": "TJ",
+        "official-name": "Republic of Tajikistan",
+        "capital": "Dushanbe",
+        "currency": "Tajik Somoni (TJS)",
+        "languages": "Tajiki",
+        "religion": "Islam"
+    },
+    {
+        "name": "Tanzania",
+        "abbr": "TZ",
+        "official-name": "United Republic of Tanzania",
+        "capital": "Dodoma",
+        "currency": "Tanzanian Shilling (TZS)",
+        "languages": "Swahili, English, Arabic (Zanzibar)",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Thailand",
+        "abbr": "TH",
+        "official-name": "Kingdom of Thailand",
+        "capital": "Bangkok",
+        "currency": "Thai Baht (THB)",
+        "languages": "Thai",
+        "religion": "Theravada Buddhism"
+    },
+    {
+        "name": "Togo",
+        "abbr": "TG",
+        "official-name": "Togolese Republic",
+        "capital": "Lomé",
+        "currency": "West African CFA Franc (XOF)",
+        "languages": "French, Yoruba",
+        "religion": "Christianity, Traditional faiths"
+    },
+    {
+        "name": "Tonga",
+        "abbr": "TO",
+        "official-name": "Kingdom of Tonga",
+        "capital": "Nuku'alofa",
+        "currency": "Tongan Pa'anga (TOP)",
+        "languages": "English, Tongan",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "abbr": "TT",
+        "official-name": "Republic of Trinidad and Tobago",
+        "capital": "Port of Spain",
+        "currency": "Trinidad and Tobago Dollar (TTD)",
+        "languages": "English",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Tunisia",
+        "abbr": "TN",
+        "official-name": "Republic of Tunisia",
+        "capital": "Tunis",
+        "currency": "Tunisian Dinar (TND)",
+        "languages": "Arabic",
+        "religion": "Islam"
+    },
+    {
+        "name": "Turkey",
+        "abbr": "TR",
+        "official-name": "Republic of Turkey",
+        "capital": "Ankara",
+        "currency": "Turkish Lira (TRY)",
+        "languages": "Turkish",
+        "religion": "Islam"
+    },
+    {
+        "abbr": "TM",
+        "name": "Turkmenistan",
+        "capital": "Ashgabat",
+        "currency": "Turkmen New Manat (TMT)",
+        "languages": "Turkmen",
+        "religion": "Islam"
+    },
+    {
+        "abbr": "TV",
+        "name": "Tuvalu",
+        "capital": "Funafuti",
+        "currency": "Tuvaluan Dollar (TVD), Australian Dollar (AUD)",
+        "languages": "English, Tuvaluan",
+        "religion": "Church of Tuvalu"
+    },
+    {
+        "name": "Uganda",
+        "abbr": "UG",
+        "official-name": "Republic of Uganda",
+        "capital": "Kampala",
+        "currency": "Ugandan Shilling (UGX)",
+        "languages": "Luganda, English, Swahili",
+        "religion": "Christianity"
+    },
+    {
+        "abbr": "UA",
+        "name": "Ukraine",
+        "capital": "Kyiv",
+        "currency": "Ukranian Hryvnia (UAH)",
+        "languages": "Ukranian",
+        "religion": "Christianity"
+    },
+    {
+        "abbr": "AE",
+        "name": "United Arab Emirates",
+        "capital": "Abu Dhabi",
+        "currency": "UAE Dirham (AED)",
+        "languages": "Arabic",
+        "religion": "Sunni Islam"
+    },
+    {
+        "name": "United Kingdom",
+        "abbr": "GB",
+        "official-name": "United Kingdom of Great Britain and Northern Ireland",
+        "capital": "London",
+        "currency": "Pound Sterling (GBP)",
+        "languages": "English",
+        "religion": "Christianity"
+    },
+    {
+        "name": "United States",
+        "abbr": "US",
+        "official-name": "United States of America",
+        "capital": "Washington, D.C.",
+        "currency": "United States Dollar (USD)",
+        "languages": "None (federally)",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Uruguay",
+        "abbr": "UY",
+        "official-name": "Oriental Republic of Uruguay",
+        "capital": "Montevideo",
+        "currency": "Uruguayan Peso (UYU)",
+        "languages": "Spanish",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "Uzbekistan",
+        "abbr": "UZ",
+        "official-name": "Republic of Uzbekistan",
+        "capital": "Tashkent",
+        "currency": "Uzbek Som (UZS)",
+        "languages": "Uzbek",
+        "religion": "Islam"
+    },
+    {
+        "name": "Vanuatu",
+        "abbr": "VU",
+        "official-name": "Republic of Vanuatu",
+        "capital": "Port Vila",
+        "currency": "Vanuatu Vavu (VUV)",
+        "languages": "Bislama, English, French",
+        "religion": "Christianity"
+    },
+    {
+        "name": "Vatican City",
+        "abbr": "VA",
+        "official-name": "Vatican City State",
+        "capital": "Vatican City (city-state)",
+        "currency": "Euro (EUR)",
+        "languages": "Italian",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "Venezuela",
+        "abbr": "VE",
+        "official-name": "Bolivarian Republic of Venezuela",
+        "capital": "Caracas",
+        "currency": "Bolivar Soberano (VES)",
+        "languages": "Spanish",
+        "religion": "Catholicism"
+    },
+    {
+        "name": "Vietnam",
+        "abbr": "VN",
+        "official-name": "Socialist Republic of Vietnam",
+        "capital": "Hanoi",
+        "currency": "Vietnamese Dong (VND)",
+        "languages": "Vietnamese",
+        "religion": "Folk, Irreligious"
+    },
+    {
+        "name": "Yemen",
+        "abbr": "YE",
+        "official-YEme": "Republic of Yemen",
+        "capital": "Sanaa",
+        "currency": "Yemeni Rial (YER)",
+        "languages": "Arabic",
+        "religion": "Islam"
+    },
+    {
+        "name": "Zambia",
+        "abbr": "ZM",
+        "official-name": "Republic of Zambia",
+        "capital": "Lusaka",
+        "currency": "Zambian Kwacha (ZMW)",
+        "languages": "English",
+        "religion": "Protestantism"
+    },
+    {
+        "name": "Zimbabwe",
+        "abbr": "ZW",
+        "official-name": "Republic of Zimbabwe",
+        "capital": "Harare",
+        "currency": "United States Dollar (USD) (de facto)",
+        "languages": "Chewa, English, 14 more",
+        "religion": "Protestantism"
+    }
+]

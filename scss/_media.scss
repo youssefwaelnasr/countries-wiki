@@ -1,0 +1,17 @@
+@media (max-width: 1000px) {
+    #wrapper #container {
+        width: 70%;
+    }
+}
+
+@media (max-width: 500px) {
+    #wrapper #container {
+        width: 85%;
+
+        #search #search-bar {
+            padding: 2rem 1rem;
+            word-wrap: break-word;
+            word-break: break-all;
+        }
+    }
+}
