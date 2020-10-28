@@ -76,6 +76,9 @@ body {
 }
 
 @media (max-width: 500px) {
+  html {
+    font-size: 15px;
+  }
   #wrapper #container {
     width: 85%;
   }
@@ -83,5 +86,19 @@ body {
     padding: 2rem 1rem;
     word-wrap: break-word;
     word-break: break-all;
+  }
+  #wrapper #container #results {
+    background: #222;
+  }
+  #wrapper #container #results .result-item {
+    padding-left: 0rem;
+    padding-right: 0rem;
+  }
+  #wrapper #container #results .result-item h4 .misc {
+    font-size: 0.9rem;
+  }
+  #wrapper #container #results .result-item h4 .misc i {
+    margin-bottom: 0.4rem;
+    font-size: 1.4rem;
   }
 }
