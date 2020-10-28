@@ -1,0 +1,25 @@
+{
+    "name": "countries-wiki",
+    "version": "1.0.0",
+    "description": "Look up any country and get some information on it.",
+    "main": "index.js",
+    "dependencies": {
+        "gh-pages": "^3.1.0",
+        "github-pages": "^3.0.2"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "deploy": "gh-pages -d dist"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/youssefwaelnasr/countries-wiki.git"
+    },
+    "keywords": [],
+    "author": "Youssef Nasr",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://youssefwaelnasr.github.io/countries-wiki"
+    },
+    "homepage": "https://github.com/youssefwaelnasr/countries-wiki#readme"
+}
